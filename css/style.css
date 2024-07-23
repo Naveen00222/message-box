@@ -1,0 +1,34 @@
+.box{
+    border: 2px solid black;
+    width: 350px;
+    height: 250px;
+    margin-left: 450px;
+    margin-top: 150px;
+    background-image: url("../assets/1337139.png") ;
+    border-radius: 25px;
+}
+img{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+input{
+    width: 280px;
+    height:30px;
+    margin-left: 30px;
+}
+button{
+    width: 100px;
+    height:30px;
+}
+.btn1{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.btn2{
+    margin-top: 30px;
+    margin-left: 50px;
+}
